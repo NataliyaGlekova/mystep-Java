@@ -6,7 +6,7 @@ public class Phone {
     int pixel;
 
     public Phone(){
-        name = "Empty";
+        name = "Ivan";
         price = 0;
         pixel = 0;
     }
